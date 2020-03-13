@@ -4,8 +4,7 @@
 
 ## 목차
 
-1. [프로그래밍 개발환경 준비](./notebooks/...)
-1. [데이터과학 소개](./notebooks/...)
+1. [데이터과학 소개](./notebooks/pdaLec01-Intro.ipynb)
 1. ...
 
 ## 개발환경

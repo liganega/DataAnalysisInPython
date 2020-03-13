@@ -27,5 +27,4 @@
 
 * [밑바닥부터 시작하는 데이터과학 2판](https://blog.insightbook.co.kr/2020/02/28/데이터-과학-분야의-기초부터-알게-해주는-강력하고/)
 * [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    * 한글 지원됨.
 * [핸즈온 머신러닝](http://m.hanbit.co.kr/store/books/book_view.html?p_code=B9267655530)

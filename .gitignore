@@ -1,2 +1,5 @@
 __pycache__
 
+## checkpoints files
+notebooks/.ipynb_checkpoints
+

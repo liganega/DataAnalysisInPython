@@ -9,18 +9,19 @@
 
 ## 개발환경
 
-데이터분석을 위한 프로그래밍 개발환경을 준비해야 하며, 두 가지 방식이 있다.
+데이터분석을 위한 프로그래밍 [개발환경을 준비](https://www.youtube.com/watch?v=-CAKVWehq4Q&list=PL5aSjzJqCaPaEAquO-5ExrJYPS8Bf2d5M&index=2&t=0s)
+해야 하며, 두 가지 방식이 있다.
 
 1. 온라인 개발환경
     * 인터넷만 지원되면 사용가능
     * 여기서는 [구글 코랩](https://colab.research.google.com/) 활용. 
 1. 오프라인 개발환경
     * 개인 컴퓨터에 파이썬을 설치한 후 사용.
-    * 추천 개발환경: Anacoda 패키지 + Visual Studio Code
+    * 추천 개발환경: [Anacoda 패키지](https://www.anaconda.com/distribution/) + [Visual Studio Code](https://code.visualstudio.com)
 
 ## 강의 동영상
 
-[강의 동영상](https://www.youtube.com/...)을 따라하며 공부할 수 있음.
+[강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaEAquO-5ExrJYPS8Bf2d5M)을 따라하며 공부할 수 있음.
 
 ## 참고도서
 

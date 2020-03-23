@@ -5,7 +5,7 @@
 ## 목차
 
 1. [데이터과학 소개](./notebooks/pda01-Intro.ipynb)
-1. [파이썬 특강](./notebooks/pda02-PythonIntensiveCourse_Part1.ipynb)
+1. [파이썬 특강 1부](./notebooks/pda02-PythonIntensiveCourse_Part1.ipynb)
 1. ...
 
 ## 개발환경

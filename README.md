@@ -6,9 +6,29 @@
 
 1. [데이터과학 소개](./notebooks/pda01-Intro.ipynb)
 1. [파이썬 특강 1부](./notebooks/pda02-PythonIntensiveCourse_Part1.ipynb)
+    1. 모듈과 패키지
+    1. 함수
+    1. 문자열 자료형
+    1. 리스트 자료형
+    1. 튜플 자료형
 1. [파이썬 특강 2부](./notebooks/pda03-PythonIntensiveCourse_Part2.ipynb)
+    1. 사전 자료형, defauldict 클래스, Counter 클래스
+    1. 집합 자료형
+    1. if 조건문, for 반복문, while 반복문, continue, break
+    1. 부울 자료형
 1. [파이썬 특강 3부](./notebooks/pda04-PythonIntensiveCourse_Part3.ipynb)
+    1. 정렬
+    1. 조건제시법
+    1. 테스팅
+    1. 객체지향프로그래밍
+    1. 이터러블 자료형과 제너레이터
+    1. 소극적 계산과 적극적 계산
+    1. enumerate 함수
 1. [파이썬 특강 4부](./notebooks/pda05-PythonIntensiveCourse_Part4.ipynb)
+    1. 난수 생성
+    1. 정규표현식
+    1. zip 함수와 인자 해체
+    1. 자료형과 정적 타이핑
 1. ...
 
 ## 개발환경

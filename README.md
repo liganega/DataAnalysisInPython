@@ -37,6 +37,12 @@
 1. 선형대수: 벡터와 행렬
     1. [선형대수 소개](./notebooks/pda07A-LinearAlgebra_Intro.ipynb)
     1. [선형대수 파이썬 기초](./notebooks/pda07A-LinearAlgebra_Intro.ipynb)
+1. [통계 소개](./notebooks/pda08-Statistics.ipynb)
+    1. 중심 경향성
+    1. 평균값, 중앙값, 최빈값
+    1. 사분범위
+    1. 분산, 표준편차
+    1. 상관관계, 공분산, 피어슨 상관계수
 1. ...
 
 ## 개발환경

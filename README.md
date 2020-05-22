@@ -34,7 +34,7 @@
     1. 히스토그램
     1. 선 그래프
     1. 산점도
-1. [선형대수 기초](./notebooks/pda07A-LinearAlgebra_Intro.ipynb)와
+1. [선형대수 기초](./notebooks/pda07A-LinearAlgebra_Intro.ipynb) 및 
     [선형대수 기초: 파이썬 프로그래밍](./notebooks/pda07B-LinearAlgebra_PythonBasic.ipynb)
     1. 벡터
     1. 행렬

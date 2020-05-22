@@ -34,6 +34,9 @@
     1. 히스토그램
     1. 선 그래프
     1. 산점도
+1. 선형대수: 벡터와 행렬
+    1. [선형대수 소개](./notebooks/pda07A-LinearAlgebra_Intro.ipynb)
+    1. [선형대수 파이썬 기초](./notebooks/pda07A-LinearAlgebra_Intro.ipynb)
 1. ...
 
 ## 개발환경

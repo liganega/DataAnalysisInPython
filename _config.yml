@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: 파이썬 데이터 분석(구버전)
+description: 파이썬 언어를 이용한 데이터 분석 기초 지식 제공
+show_downloads: false
+github:
+  is_project_page: false
